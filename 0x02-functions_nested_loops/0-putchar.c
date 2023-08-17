@@ -1,11 +1,10 @@
 #include "main.h"
-
 /**
  * main - Entry point of my code
  *
  * Return: Always 0
+ * on error: -1 returned, and error is set approprimately
  */
-
 int main(void)
 {
 _putchar('_');
